@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to solve complex problems and create intelligent solutions.",
   resumeLink:
-    "https://drive.google.com/file/d/1ebKQQqC-jVeBaTnOg2zsvi0HIvw8jZ7p/view?usp=sharing",
+    "https://drive.google.com/file/d/1QoRZitI1hPtEvnkYIoOuc-wYI9laQZsI/view?usp=sharing",
   portfolio_repository: "https://github.com/dayanara846/masterPortfolio",
 };
 
@@ -418,7 +418,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "In my leisure time, I enjoy taking up new challenges. I enjoy creating data science projects and deploy them through web applications using R's Shiny package and Python's Plotly and Streamlit libraries.",
+    "In my leisure time, I enjoy learning new concepts. I try to enhance my recently acquired skills by generating exciting projects.",
   avatar_image_path: "projects_image.svg",
 };
 
